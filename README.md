@@ -9,5 +9,6 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day 2:** Pipe Operator  
 - **Day 3:** Guard Clauses  
 - **Day 4:** Comprehensions  
+- **Day 5:** Protocols and Polymorphic  
 
 > *More days to come! 🚀*
