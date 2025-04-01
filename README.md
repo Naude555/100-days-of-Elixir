@@ -11,6 +11,14 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day 4:** Comprehensions  
 - **Day 5:** Protocols and Polymorphic  
 - **Day 6:** Verb Noun combinations for function names  
+- **Day :7** Prefix Boolean Variables with is_ or has_
+- **Day :8** Name Collections with plural nouns
+- **Day :9** Use 'with' for function names that return modified input
+- **Day :10** Suffix functions that return boolean with a question mark
+- **Day :11** Avoid abbreviations unless universally understood
+
+
+
 
 
 > *More days to come! 🚀*
