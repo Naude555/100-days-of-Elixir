@@ -16,6 +16,11 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :9** Use 'with' for function names that return modified input
 - **Day :10** Suffix functions that return boolean with a question mark
 - **Day :11** Avoid abbreviations unless universally understood
+- **Day :12** Use 'create' instead of 'new' for factory functions
+- **Day :13** Prefer 'calculate' over 'compute' for mathematical operations
+- **Day :14** Use 'fetch' instead of get for operations that might fail
+- **Day :15** Avoid negations in boolean names
+
 
 
 
