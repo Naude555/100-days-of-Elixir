@@ -20,6 +20,10 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :13** Prefer 'calculate' over 'compute' for mathematical operations
 - **Day :14** Use 'fetch' instead of get for operations that might fail
 - **Day :15** Avoid negations in boolean names
+- **Day :16** Use module attributes for constants and configuration
+- **Day :17** Leverage macros for compile time code generation
+- **Day :18** GenServer for stateful processes
+- **Day :19** Use Supervisors for fault tolerant application structures
 
 
 
