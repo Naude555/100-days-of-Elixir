@@ -24,6 +24,9 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :17** Leverage macros for compile time code generation
 - **Day :18** GenServer for stateful processes
 - **Day :19** Use Supervisors for fault tolerant application structures
+- **Day :20** Employ behaviours to define and implemnt interfaces
+- **Day :21** Comment on the "why" rather than "what" or "how"
+- **Day :22 + 23** Use @moduledoc and @doc for module and function documentation and include example using doctests
 
 
 
