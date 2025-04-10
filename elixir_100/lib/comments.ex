@@ -19,6 +19,8 @@ defmodule Comments do
     end
   end
 
+  def binary_search(_list, _target), do: :ok
+
   # Using a binary search here because the list is sorted and binary search is O(log n).
   def find_element(sorted_list, target) do
     binary_search(sorted_list, target)
@@ -44,6 +46,8 @@ defmodule Comments do
         {:error, "Failed to fetch user data: #{reason}"}
     end
   end
+
+  def binary_search(_list, _target), do: :ok
 
   # Search for the target in the list.
   def find_element_bad(sorted_list, target) do
