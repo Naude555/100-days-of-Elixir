@@ -47,7 +47,6 @@ defmodule Comments do
     end
   end
 
-  def binary_search(_list, _target), do: :ok
 
   # Search for the target in the list.
   def find_element_bad(sorted_list, target) do
