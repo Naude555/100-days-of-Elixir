@@ -29,6 +29,10 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :22 + 23** Use @moduledoc and @doc for module and function documentation and include example using doctests (documentation.ex)
 - **Day :24** Comment on non obvious performance implications (performance.ex)
 - **Day :25** Explain complex algorithms or business logic in comments (logic.ex)
+- **Day :26** Keeping comments concise and to the point (concise_comments.ex)
+- **Day :27** Update comments when the corresponding code changes (update_comments.ex)
+- **Day :28** Use consistent terminology in comments and code (consistancy.ex)
+- **Day :29** Avoid redundant comments that merely restate the code (redundant_comments.ex)
 
 
 

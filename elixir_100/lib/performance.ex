@@ -5,6 +5,16 @@ defmodule Performance do
   By documenting these decisions, you provide valuable context for future developers, enabling them to make informed choices and maintain consistency in similar scenarios.
 
   """
+
+  @doc """
+  Simple function to simulate a heavy computation.
+  """
+  def process(x) do
+    # Simulate a heavy computation
+    :timer.sleep(100)
+    x * 2
+  end
+
   # Good Code
   def compute_heavy_task(data) do
     # Using Enum.reduce instead of Enum.map to avoid creating an intermediate list,

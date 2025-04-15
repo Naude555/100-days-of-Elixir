@@ -1,7 +1,7 @@
 defmodule Logic do
   @moduledoc """
   Use comments to clarify the purpose and steps of complex algorithms or business logic.
-Adding explanatory comments to complex code sections helps others understand the implementation and reasoning behind it.
+  Adding explanatory comments to complex code sections helps others understand the implementation and reasoning behind it.
 
   """
 
@@ -36,7 +36,7 @@ Adding explanatory comments to complex code sections helps others understand the
   - **No Validation**: There is no check for the discount value, which could lead to incorrect calculations or runtime errors.
   - **Redundant Comments**: The comments do not add value and could be considered noise.
 """
-def calculate_discounted_price(price, discount) do   if discount < 0 or discount > 1 do
+def bad_calculate_discounted_price(price, discount) do   if discount < 0 or discount > 1 do
     raise ArgumentError, "Discount must be between 0 and 1"
   end
   # Calculate discount amount
