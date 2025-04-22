@@ -33,6 +33,7 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :27** Update comments when the corresponding code changes (update_comments.ex)
 - **Day :28** Use consistent terminology in comments and code (consistancy.ex)
 - **Day :29** Avoid redundant comments that merely restate the code (redundant_comments.ex)
+- **Day :30** Write comments in complete sentences for clarity (clarity.ex)
 
 
 
