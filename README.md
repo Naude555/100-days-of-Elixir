@@ -34,7 +34,8 @@ Exploring Elixir while following *Elixir Readable Code 100 Knock: 100 Techniques
 - **Day :28** Use consistent terminology in comments and code (consistancy.ex)
 - **Day :29** Avoid redundant comments that merely restate the code (redundant_comments.ex)
 - **Day :30** Write comments in complete sentences for clarity (clarity.ex)
-
+- **Day :31** Use of sigils for working with different text representatios (sigils.ex)
+- **Day :32** Leveraging streams for lazy and composable enumerations (streams.ex)
 
 
 
